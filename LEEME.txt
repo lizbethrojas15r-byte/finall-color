@@ -1,0 +1,22 @@
+COLOR DE FILETE v1.7.3 - APP INSTALABLE (funciona sin internet)
+Todos los archivos van SUELTOS (sin carpeta). Súbelos TODOS juntos.
+
+1. Descarga este ZIP y extráelo (app Archivos o RAR > "Extraer").
+2. En Chrome entra a github.com y crea una cuenta gratuita (o inicia sesión).
+3. Toca "+" > "New repository". Nombre: color-filete. Marca "Public". Create repository.
+4. En el repositorio toca "uploading an existing file".
+   Elige TODOS los archivos extraídos (index.html, sw.js, manifest.webmanifest,
+   los 3 íconos .png y los 3 archivos .js) > "Commit changes".
+   IMPORTANTE: index.html debe verse en la lista principal del repositorio,
+   no dentro de una carpeta.
+5. Settings > Pages > Source: "Deploy from a branch" > Branch: main, carpeta / (root) > Save.
+   (Si no ves Settings: Chrome ⋮ > "Sitio de escritorio").
+6. Espera 2-3 minutos. Tu app estará en:
+   https://TU-USUARIO.github.io/color-filete/
+7. Abre ese enlace en Chrome > ⋮ > "Instalar aplicación" (o "Agregar a pantalla principal" > Instalar).
+8. Ábrela una vez con internet; después funciona sin conexión.
+
+Si sale "404 / página no encontrada":
+ - index.html quedó dentro de una carpeta: vuelve a subir los archivos sueltos.
+ - Pages no está activado o aún se está publicando: revisa el paso 5 y espera 3 minutos.
+ - El enlace está mal escrito: debe terminar en /color-filete/ (con el nombre exacto del repositorio).

@@ -1,0 +1,36 @@
+{
+  "id": "./index.html",
+  "name": "Color de filete",
+  "short_name": "Color filete",
+  "description": "Muestreo de color por puntos en filetes: RGB, CIELab, LCh, SalmoFan™ estimado e informes en Excel, PDF y Word.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4EEF7",
+  "theme_color": "#7B3F98",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "display_override": [
+    "standalone"
+  ]
+}
